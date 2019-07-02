@@ -2,6 +2,7 @@ package advancedjava;
 
 import javax.swing.JOptionPane;
 
+//This is like an assignment 
 public class Project {
 public static void main(String[] args) {
 	//String fname="",sname="", first="", second="", temp="1"
